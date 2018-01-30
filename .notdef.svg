@@ -1,0 +1,25 @@
+
+<svg width='1673px' height='1435px' xmlns='http://www.w3.org/2000/svg' version='1.1'>
+
+ <!-- make sure glyph is visible within svg window -->
+ <g fill-rule='nonzero'  transform='translate(100 1139)'>
+
+  <!-- draw actual outline using lines and Bezier curves-->
+  <path fill='black' stroke='black' fill-opacity='0.45'  stroke-width='2'  d='
+ M 102,-678
+ L 567,-678
+ L 567,0
+ L 102,0
+ L 102,-678
+ Z
+
+ M 507,-60
+ L 507,-618
+ L 163,-618
+ L 163,-60
+ L 507,-60
+ Z
+
+  '/>
+ </g>
+</svg>

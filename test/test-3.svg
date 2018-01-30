@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with svg_stack (http://github.com/astraw/svg_stack) -->
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" version="1.1" width="131.07362598425198" height="68.38582677165356">
+  <defs/>
+  <g id="id0:id0" transform="matrix(3.54330708661,0,0,3.54322025018,0.0,0.0)">
+    <g transform="matrix(1 0 0 1.0164195 -61.270455 -173.2915461)">
+      <g transform="translate(50.412631 91.86209)">
+        <text stroke-width=".26458332" x="11.893495" y="95.979904">
+          <tspan stroke-width=".26458332" x="11.893495" y="102.13152"/>
+        </text>
+        <g fill="none" stroke="#000" stroke-width="1.05833328">
+          <path d="m10.857824 84.320273h13.597337"/>
+          <path d="m15.595144 88.992282c.512873-.498104.111513-1.065958.979793-.981015 1.12064.424856-.746928 2.157583-1.340052.892427-.592459-1.383049-.111078-1.956034.567426-2.445265 3.255463-2.050362 6.246502 5.042832.114067 4.732572-2.540908-.520626-3.116197-3.245817-3.989473-4.866205" stroke-linejoin="round"/>
+          <path d="m19.477266 89.732481c.82206.531488 2.942068 2.369172 2.906556 3.240643v-8.652851" stroke-linejoin="bevel"/>
+        </g>
+      </g>
+      <path d="m74.18273 176.18455c1.613361-.1221 1.855536.53782 2.370704 1.21054l-.0084 7.41205.0059-9.97656" fill="none" stroke="#000" stroke-width="1.05833328"/>
+      <path d="m76.828564 176.13731h1.913504" fill="none" stroke="#000" stroke-width="1.05833328"/>
+    </g>
+  </g>
+  <g id="id1:id1" transform="matrix(3.54330708661,0,0,3.54326834933,61.9072901575,0.0)">
+    <g transform="translate(-86.438428 -120.60228)">
+      <text opacity=".48399999" stroke-width=".26458332" x="86.595329" y="135.83647">
+        <tspan stroke-width=".26458332" x="86.595329" y="141.98808"/>
+      </text>
+      <g transform="matrix(1 0 0 1.0007461 0 -.10086529)">
+        <path d="m86.438428 126.36306h9.520277" fill="none" stroke="#000" stroke-width="1.10757077"/>
+        <path d="m87.17998 127.24802c1.188582.13673 2.449386.66507 2.92326 1.24405 1.053143 1.22344 1.510098 2.6469 1.419867 3.8968-.118797.98299-.960401 1.51175-1.61948 1.67202-1.348769.23019-1.778468-.96811-1.802044-1.67869-.06469-.59059.122981-1.64842 1.102486-2.04902 1.028148-.34511 2.160592.0368 2.970508.88481l1.960979 1.92236.03544 2.05257v-8.70978" fill="none" stroke="#000" stroke-linejoin="bevel" stroke-width="1.1071775"/>
+      </g>
+    </g>
+  </g>
+  <g id="id2:id2" transform="translate(95.6405551181,0)"><!-- make sure glyph is visible within svg window -->
+  <g style="fill-rule:nonzero" id="id2:g4" transform="translate(100,-304.61415)">
+    <!-- font had 0 points -->
+  </g>
+</g>
+</svg>
